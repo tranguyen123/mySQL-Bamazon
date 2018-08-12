@@ -1,0 +1,19 @@
+{
+  "name": "mysql-bamazon",
+  "version": "1.0.0",
+  "description": "homework for week 12",
+  "main": "bamazonCostumer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranguyen123/mySQL-Bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tranguyen123/mySQL-Bamazon/issues"
+  },
+  "homepage": "https://github.com/tranguyen123/mySQL-Bamazon#readme"
+}
